@@ -1,0 +1,6 @@
+id=burpsuite-ca-certificate
+name=BurpSuite CA Certificate
+version=1.0
+versionCode=1
+author=Nima Fanniasl (smartnima.com)
+description=Adds the BurpSuite CA Certificate to your trusted certificates so you can connect your phone to BurpSuite
