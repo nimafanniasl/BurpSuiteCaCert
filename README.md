@@ -1,6 +1,6 @@
 # BurpSuite CA Certificate
 
-This Magisk module installs Burp Suite's CA Certificate on your Android phone.
+This Magisk/KernelSU module installs Burp Suite's CA Certificate on your Android phone.
 
 # Installation:
 
